@@ -1,8 +1,16 @@
+# Portuguese
 
-Programa de cadastro de pacientes para uma suposta clÌnica mÈdica, utiliza interface gr·fica em Tkinter, banco de 
+Programa de cadastro de pacientes para uma suposta cl√≠nica m√©dica, utiliza interface gr√°fica em Tkinter, banco de 
 dados SQLite3, 
 importa e exporta arquivos XML para o banco de dados para compatibilidade com outros programas.
 
-Tem pouco mais de 600 linhas de cÛdigo. Escolhi utilizar Tkinter pra n„o fugir da biblioteca padr„o e n„o ter trabalho 
-de instalar outras coisas alÈm do Python nas estaÁıes de trabalho.
-Foi baseado na experiÍncia de aprendizado com o livro "ProgramaÁ„o em Python 3" de Mark Summerfield.
+Tem pouco mais de 600 linhas de c√≥digo. Escolhi utilizar Tkinter pra n√£o fugir da biblioteca padr√£o e n√£o ter trabalho 
+de instalar outras coisas al√©m do Python nas esta√ß√µes de trabalho.
+Foi baseado na experi√™ncia de aprendizado com o livro "Programa√ß√£o em Python 3" de Mark Summerfield.
+
+# English
+
+This program was made for the registration of patients into a medical clinic. Uses Tkinter GUI, SQLite3 database, imports and exports XML files to the database for better compatibility with other programs.
+
+Has little more than 600 lines of code. I've choosen to use TKinter to stick to the Standard Library and not have to install other libs.
+Was based on my learning experience with the book "Programming in Python 3: A Complete Introduction to the Python Language" from Mark Summerfield. Its just a python exercise.
